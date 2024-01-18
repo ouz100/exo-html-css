@@ -1,0 +1,36 @@
+#titre1{
+    color: blue;
+}
+.titre2{
+    color: green;
+}
+.trois{
+    color: orange;
+}
+#p1{
+    color: gray;
+}
+.red{
+    color: red;
+}
+a:hover {
+    color: gold;
+}
+#p1:first-of-type{
+    font-size: 30px;
+    color: #A92;
+}
+.ou{
+    color: aqua;
+}
+.ouz{
+    color: cadetblue;
+}
+h2{
+    background-color: blueviolet;
+    width: 10%;
+}
+p{
+    border: 1px solid black;
+    width: 70%;
+}
